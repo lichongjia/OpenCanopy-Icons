@@ -1,0 +1,3 @@
+-e "LabelName" .disk_label .disk_label_2x
+
+-e "Ubuntu" .disk_label .disk_label_2x

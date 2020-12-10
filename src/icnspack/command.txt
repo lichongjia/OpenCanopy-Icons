@@ -1,0 +1,16 @@
+./icnspack Apple.icns Apple_128.png Apple_256.png
+./icnspack AppleRecv.icns AppleRecv_128.png AppleRecv_256.png
+./icnspack AppleTM.icns AppleTM_128.png AppleTM_256.png
+./icnspack ExtAppleRecv.icns ExtAppleRecv_128.png ExtAppleRecv_256.png
+./icnspack ExtHardDrive.icns ExtHardDrive_128.png ExtHardDrive_256.png
+./icnspack HardDrive.icns HardDrive_128.png HardDrive_256.png
+./icnspack ResetNVRAM.icns ResetNVRAM_128.png ResetNVRAM_256.png
+./icnspack Selected.icns Selected_144_1x.png Selected_288_2x.png
+./icnspack Selector.icns Selector_40_1x.png Selector_80_2x.png
+./icnspack Shell.icns Shell_128.png Shell_256.png
+./icnspack Tool.icns Tool_128.png Tool_256.png
+./icnspack Windows.icns Windows_128.png Windows_256.png
+
+./icnspack Linux.icns Linux_128.png Linux_256.png
+./icnspack Opencore.icns Opencore_128.png Linux_256.png
+./icnspack Ubuntu.icns Ubuntu_128.png Ubuntu_256.png

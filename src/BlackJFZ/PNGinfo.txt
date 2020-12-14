@@ -1,0 +1,3 @@
+Selector.png 80x80 in 144 pixels
+Selected.png 288x288 in 144 pixels
+All the others must be 256x256 in 144 pixels

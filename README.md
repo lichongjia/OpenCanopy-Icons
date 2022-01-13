@@ -27,3 +27,10 @@ Btw. Or visit [OpenCanopy-Gallery](https://dortania.github.io/OpenCanopy-Gallery
     <img src="./Jianfengzhi_source_prev.png">
 </p>
 
+
+
+**Pure Source Preview:**
+
+<p style="text-align: center">
+    <img src="./Pure_source_prev.png">
+</p>
